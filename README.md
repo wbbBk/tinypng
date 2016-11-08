@@ -6,3 +6,7 @@
 将申请的密匙填写到 tinypng/config/key.js 中
 
 然后就可以使用 node tinypng.js path true/false [true 覆盖原图，false 将保留原图创建一张 .min 的图片]
+
+##https://tinypng.com/
+
+## 或者在切图时切最小选最佳
